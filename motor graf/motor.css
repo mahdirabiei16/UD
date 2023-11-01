@@ -1,0 +1,303 @@
+.fontsize1{
+   font-size: 1px; 
+}
+.fontsize2{
+    font-size: 2px; 
+ }
+ .fontsize3{
+    font-size: 3px; 
+ }
+ .fontsize4{
+    font-size: 4px;
+           
+ }
+ .fontsize5{
+    font-size: 5px;
+           
+ }
+ .fontsize6{
+   font-size: 6px;
+          
+}
+.fontsize7{
+   font-size: 7px;
+          
+}
+.fontsize8{
+   font-size: 8px;
+          
+}
+.fontsize9{
+   font-size:9px ;
+          
+}
+.fontsize10{
+   font-size: 10px; 
+}
+.fontsize11{
+   font-size: 11px; 
+}
+.fontsize12{
+    font-size: 12px; 
+ }
+ .fontsize13{
+    font-size: 13px; 
+ }
+ .fontsize14{
+    font-size: 14px;
+           
+ }
+ .fontsize15{
+    font-size: 15px;
+           
+ }
+ .fontsize16{
+   font-size: 16px;
+          
+}
+.fontsize17{
+   font-size: 17px;
+          
+}
+.fontsize18{
+   font-size: 18px;
+          
+}
+.fontsize19{
+   font-size:19px ;
+          
+}
+.fontsize20{
+   font-size: 20px; 
+}
+.fontsize21{
+   font-size: 21px; 
+}
+.fontsize22{
+    font-size: 22px; 
+ }
+ .fontsize23{
+    font-size: 23px; 
+ }
+ .fontsize24{
+    font-size: 24px;
+           
+ }
+ .fontsize25{
+    font-size: 25px;
+           
+ }
+ .fontsize26{
+   font-size: 26px;
+          
+}
+.fontsize27{
+   font-size: 27px;
+          
+}
+.fontsize28{
+   font-size: 28px;
+          
+}
+.fontsize29{
+   font-size:29px ;
+          
+}
+.fontsize30{
+   font-size: 3px; 
+}
+
+.fontsize31{
+   font-size: 31px; 
+}
+.fontsize32{
+    font-size: 32px; 
+ }
+ .fontsize33{
+    font-size: 33px; 
+ }
+ .fontsize34{
+    font-size: 34px;
+           
+ }
+ .fontsize35{
+    font-size: 35px;
+           
+ }
+ .fontsize36{
+   font-size: 36px;
+          
+}
+.fontsize37{
+   font-size: 37px;
+          
+}
+.fontsize38{
+   font-size: 38px;
+          
+}
+.fontsize39{
+   font-size:39px ;
+          
+}
+.fontsize40{
+   font-size: 40px;
+}
+.fontsize41{
+   font-size: 41px;
+}
+.fontsize42{
+   font-size: 42px;
+}
+.fontsize43{
+   font-size: 43px;
+}
+.fontsize43{
+   font-size: 44px;
+}
+.fontsize45{
+   font-size: 45px;
+}
+.fontsize46{
+   font-size: 46px;
+}
+.fontsize47{
+   font-size: 47px;
+}
+.fontsize48{
+   font-size: 48px;
+}
+.fontsize49{
+   font-size: 49px;
+}
+.fontsize50{
+   font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+@font-face{
+   font-family: vazir;
+   src: url(./Vazir.ttf);
+}
+* {
+   font-family: vazir;
+
+}
+
+
+
+
+
+
+
+
+
+
+.t-align-center{
+   text-align: center;
+}
+.t-align-left{
+   text-align: left;
+}
+.t-align-right{
+   text-align: right;
+}
+
+
+
+
+
+
+
+
+
+
+.red{
+   color: red;
+}
+.blue{
+   color: blue;
+}
+.green{
+   color: green;
+}
+.yellow{
+   color: yellow;
+}
+.black{
+   color: black;
+}
+
+
+
+
+
+
+
+
+
+.b-c-green{
+   background-color: green;
+}
+.b-c-black{
+   background-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+.b-i-purple-blue{
+   background: rgb(64,0,240);
+   background: linear-gradient(90deg, rgba(64,0,240,1) 0%, rgba(121,9,115,1) 50%);
+}
+
+
+
+
+
+
+
+
+
+
+.w200px{
+   width: 200px;
+}
+.h40px{
+   height: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+.d-block{
+   display: block;
+}
+.d-inline-block{
+   display: inline-block;
+}
+.d-inline{
+   display: inline;
+}
+.d-flex{
+   display: flex;
+}
