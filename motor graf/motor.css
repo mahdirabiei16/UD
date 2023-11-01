@@ -298,6 +298,16 @@
 .d-inline{
    display: inline;
 }
-.d-flex{
+.d-flex-j{
    display: flex;
+   justify-content: center;
+}
+.d-flex-a{
+   display: flex;
+   align-items: center;
+}
+.d-flex-j-a{
+   display: flex;
+   justify-content: center;
+   align-items: center;
 }
